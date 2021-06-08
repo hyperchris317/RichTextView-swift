@@ -13,5 +13,3 @@ Features
 - Interaction Delegate
 
 Also support custom text style with AttributeText.
-
-![1](1.png)
